@@ -1,0 +1,118 @@
+body{
+    font-family: 'Source code pro' Calibre, serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(252, 247, 247);
+    background-image: url(logoscreen.jpg); 
+}
+
+nav ul{
+    width: 100%;
+    background-color: rgb(18, 18, 112);
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+nav li{
+ list-style: none;
+ float: left;   
+}
+
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+}
+
+.c
+{
+    background-color: antiquewhite;
+}
+section
+{
+        display: flex;
+        justify-content: center;
+}
+
+.h
+{
+    max-width: 230px;
+    max-height: 230px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: rgb(44, 66, 66) 7px 7px 10px;
+    background-color: black;
+    transform: translate(520px, 390px);
+}
+.h h1
+{
+    margin-bottom: 10px;
+    color: blanchedalmond;
+}
+
+.h p
+{
+    line-height: 1.4;
+    color: blanchedalmond;
+}
+
+.j
+{
+    box-shadow: rgb(44, 66, 66) 7px 7px 10px;
+}
+
+.menu-jeux
+{
+    transform: translatex(535%);
+}
+
+.menu-accueil
+{
+    transform: translateX(465%);
+}
+.menu-site
+{
+    transform: translateX(475%);
+}
+
+.menu-contact
+{
+    transform: translateX(385%);
+}
+
+button {
+    border: 5;
+    background: blue;
+    position: relative;
+    overflow: blue;
+    border-radius: 30px;
+    cursor: pointer;
+    height: auto;
+    width: 80px;
+}
+.t {
+    color: rgb(0, 89, 255);
+}
+
+.menu-chat{
+    position: pointer;
+}
+
+#ex {
+    padding-right: 0px, 0px;
+    transform: translatex(250%);
+}
+
+.video {
+    border-radius: 30px;
+    transform: translate(-153%);
+}
+
+.a{
+    border-radius: 30px;
+}
